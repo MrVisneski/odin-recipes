@@ -1,0 +1,35 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 30px auto;
+  max-width: 800px;
+}
+
+h1 {
+  text-align: center;
+  background-color: darkcyan;
+  color: white;
+  padding: 20px;
+  border-radius: 30px;
+}
+
+li {
+  font-size: 24px;
+  float: left;
+  list-style: none;
+  padding: 10px;
+  text-align: center;
+  margin: 10px;
+  width: 30%;
+  padding: 1%;
+  box-sizing: border-box;
+}
+
+ul {
+  overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
